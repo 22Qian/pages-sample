@@ -21,7 +21,7 @@
 title: Hello!
 email: 1074634683@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-a PhD student in CU Boulder/ a small vloger in BiliBili/ welcome to check my vedios/ and subscribe me!
+#a PhD student in CU Boulder/ a small vloger in BiliBili/ welcome to check my vedios/ and subscribe me!
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
