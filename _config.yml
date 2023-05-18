@@ -30,7 +30,7 @@ twitter_username: Qian
 github_username: Qian
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
