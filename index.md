@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Home
+title: Sue's Home
 ---
 
 ## Welcome everyone to my spiffy site!
